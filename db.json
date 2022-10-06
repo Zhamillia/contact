@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "mami",
+      "number": 1234567,
+      "id": 3
+    },
+    {
+      "name": "Jamilya",
+      "surname": "Sultangazieva",
+      "number": 123456789,
+      "id": 5
+    },
+    {
+      "name": "Hey",
+      "surname": "YO",
+      "number": 32842,
+      "id": 6
+    },
+    {
+      "name": null,
+      "surname": null,
+      "number": 0,
+      "id": 7
+    },
+    {
+      "name": "Kate",
+      "surname": "May",
+      "number": 6374758,
+      "id": 8
+    }
+  ]
+}
